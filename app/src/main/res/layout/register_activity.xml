@@ -43,7 +43,8 @@
             android:textAlignment="center"
             android:textColorHint="@color/white"
             android:textSize="24sp"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck"
+            android:autofillHints="" />
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -70,7 +71,8 @@
             android:textAlignment="center"
             android:textColorHint="@color/white"
             android:textSize="24sp"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck"
+            android:autofillHints="" />
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -96,7 +98,8 @@
             android:textAlignment="center"
             android:textColorHint="@color/white"
             android:textSize="24sp"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck,DuplicateSpeakableTextCheck"
+            android:autofillHints="" />
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -122,7 +125,8 @@
             android:textAlignment="center"
             android:textColorHint="@color/white"
             android:textSize="24sp"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck"
+            android:autofillHints="" />
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
