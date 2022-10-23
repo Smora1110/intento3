@@ -54,7 +54,8 @@
                 android:textAlignment="center"
                 android:textColorHint="@color/white"
                 android:textSize="32sp"
-                tools:ignore="TouchTargetSizeCheck" />
+                tools:ignore="TouchTargetSizeCheck"
+                android:autofillHints="" />
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
@@ -80,7 +81,8 @@
                 android:textAlignment="center"
                 android:textColorHint="@color/white"
                 android:textSize="32sp"
-                tools:ignore="TouchTargetSizeCheck" />
+                tools:ignore="TouchTargetSizeCheck"
+                android:autofillHints="" />
         </androidx.cardview.widget.CardView>
 
         <ImageView
@@ -88,10 +90,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="52dp"
+            android:contentDescription="@string/logo"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv_logo"
-            app:srcCompat="@drawable/logo" />
+            app:srcCompat="@drawable/logo"
+            tools:ignore="ImageContrastCheck" />
 
         <androidx.cardview.widget.CardView
             android:id="@+id/cardView3"

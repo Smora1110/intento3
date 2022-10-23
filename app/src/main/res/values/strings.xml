@@ -13,4 +13,9 @@
 	<string name="ingresar">INGRESAR</string>
 	<string name="registrarse">REGISTRARSE</string>
 	<string name="titulo">NoteApp</string>
+    <string name="logo">logo</string>
+	<string name="img_eventos">img eventos</string>
+	<string name="img_notas">img notas</string>
+	<string name="img_calcular">img calcular</string>
+	<string name="img_salir">img salir</string>
 </resources>
