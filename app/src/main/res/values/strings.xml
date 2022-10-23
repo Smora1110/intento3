@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_14___3 strings -->
+
+	<string name="app_name">NoteApp</string>
+	<string name="eventos">EVENTOS</string>
+	<string name="notas">NOTAS</string>
+	<string name="calcular">CALCULAR</string>
+	<string name="usuario">USUARIO</string>
+	<string name="volver">VOLVER</string>
+	<string name="contraseña">CONTRASEÑA</string>
+	<string name="nombre">NOMBRE</string>
+	<string name="ingresar">INGRESAR</string>
+	<string name="registrarse">REGISTRARSE</string>
+	<string name="titulo">NoteApp</string>
+</resources>
