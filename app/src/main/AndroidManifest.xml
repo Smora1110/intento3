@@ -14,6 +14,30 @@
         android:theme="@style/Theme.NoteApp"
         tools:targetApi="31">
         <activity
+            android:name=".Ver_tarea"
+            android:exported="false" />
+        <activity
+            android:name=".Agregar_nota"
+            android:exported="false" />
+        <activity
+            android:name=".Notas"
+            android:exported="false" />
+        <activity
+            android:name=".Calculadora"
+            android:exported="false" />
+        <activity
+            android:name=".Calcular_promedio"
+            android:exported="false" />
+        <activity
+            android:name=".Agregar_evento"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
