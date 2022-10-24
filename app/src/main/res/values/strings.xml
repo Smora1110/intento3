@@ -26,4 +26,5 @@
     <string name="mes">MES</string>
     <string name="evento">EVENTO</string>
     <string name="eliminar">ELIMINAR</string>
+    <string name="agregar_materia">AGREGAR MATERIA</string>
 </resources>

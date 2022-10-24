@@ -23,7 +23,7 @@
             android:layout_height="match_parent"
             android:layout_gravity="center"
             android:gravity="center"
-            android:text="AGREGAR MATERIA"
+            android:text="@string/agregar_materia"
             android:textAlignment="center"
 
             android:textColor="@color/white"
@@ -88,7 +88,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="45dp"
                     android:gravity="center"
-                    android:text="NOMBRE"
+                    android:text="@string/nombre"
                     android:textAlignment="center"
                     android:textSize="24sp"
                     app:layout_constraintEnd_toEndOf="parent"
