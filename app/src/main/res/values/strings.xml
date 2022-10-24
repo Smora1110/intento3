@@ -18,4 +18,12 @@
     <string name="img_notas">img notas</string>
     <string name="img_calcular">img calcular</string>
     <string name="img_salir">img salir</string>
+    <string name="agregar_evento">AGREGAR EVENTO</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="info">INFO</string>
+    <string name="asunto">ASUNTO</string>
+    <string name="dia">DIA</string>
+    <string name="mes">MES</string>
+    <string name="evento">EVENTO</string>
+    <string name="eliminar">ELIMINAR</string>
 </resources>
