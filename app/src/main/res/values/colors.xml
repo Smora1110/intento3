@@ -20,4 +20,6 @@
 	<color name="_bg__iphone_14___2_ek2_color">#E9495B</color>
 	<color name="registrar_color">#FFFFFF</color>
 	<color name="rectangle_54_ek1_color">#2C3861</color>
+    <color name="card_verde">#7CA65A</color>
+	<color name="rellenable">#D9D9D9</color>
 </resources>

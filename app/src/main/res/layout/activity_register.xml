@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/_bg__iphone_14___2_ek2_color"
     android:foregroundTintMode="add"
-    tools:context=".MainActivity">
+    tools:context=".Register">
 
     <TextView
         android:id="@+id/tv_logo"
@@ -36,6 +36,7 @@
             android:layout_width="wrap_content"
             android:layout_height="40dp"
             android:layout_marginBottom="2dp"
+            android:autofillHints=""
             android:background="@color/_bg__iphone_14___2_ek2_color"
             android:ems="10"
             android:hint="@string/nombre"
@@ -62,6 +63,7 @@
             android:layout_width="wrap_content"
             android:layout_height="40dp"
             android:layout_marginBottom="2dp"
+            android:autofillHints=""
             android:background="@color/_bg__iphone_14___2_ek2_color"
             android:ems="10"
             android:hint="@string/usuario"
@@ -89,6 +91,7 @@
             android:layout_width="wrap_content"
             android:layout_height="40dp"
             android:layout_marginBottom="2dp"
+            android:autofillHints=""
             android:background="@color/_bg__iphone_14___2_ek2_color"
             android:ems="10"
             android:hint="@string/contraseña"
@@ -96,7 +99,7 @@
             android:textAlignment="center"
             android:textColorHint="@color/white"
             android:textSize="24sp"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck,DuplicateSpeakableTextCheck" />
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -115,6 +118,7 @@
             android:layout_width="wrap_content"
             android:layout_height="40dp"
             android:layout_marginBottom="2dp"
+            android:autofillHints=""
             android:background="@color/_bg__iphone_14___2_ek2_color"
             android:ems="10"
             android:hint="@string/contraseña"
